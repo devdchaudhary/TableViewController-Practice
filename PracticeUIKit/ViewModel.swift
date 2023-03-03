@@ -2,7 +2,7 @@
 //  ViewModel.swift
 //  PracticeUIKit
 //
-//  Created by dddiehard on 22/02/23.
+//  Created by devdchaudhary on 22/02/23.
 //
 
 import Foundation

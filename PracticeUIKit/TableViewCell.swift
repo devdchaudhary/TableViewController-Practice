@@ -2,7 +2,7 @@
 //  TableViewCell.swift
 //  PracticeUIKit
 //
-//  Created by dddiehard on 23/02/23.
+//  Created by devdchaudhary on 23/02/23.
 //
 
 import UIKit

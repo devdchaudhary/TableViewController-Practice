@@ -2,7 +2,7 @@
 //  Model.swift
 //  PracticeUIKit
 //
-//  Created by dddiehard on 13/02/23.
+//  Created by devdchaudhary on 13/02/23.
 //
 
 import Foundation
